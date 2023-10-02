@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebAPIpessoa</name>
+    </assembly>
+    <members>
+        <member name="F:WebAPIpessoa.Controllers.PessoaController._context">
+            <summary>
+            Rota responsável por realizar processamentos de uma pessoa.
+            </summary>
+            <returns>Retorna os dados da pessoa</returns>
+            <response code="200">Retorna os dados processados da pessoa com sucesso</response>
+            <response code="400">Erro de validação</response>
+        </member>
+    </members>
+</doc>

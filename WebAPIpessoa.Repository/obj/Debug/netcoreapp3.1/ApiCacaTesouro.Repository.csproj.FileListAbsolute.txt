@@ -1,0 +1,10 @@
+C:\Users\Nathan\Documents\Cshark\API\WebAPIPessoa.Repository\bin\Debug\netcoreapp3.1\ApiCacaTesouro.Repository.deps.json
+C:\Users\Nathan\Documents\Cshark\API\WebAPIPessoa.Repository\bin\Debug\netcoreapp3.1\ApiCacaTesouro.Repository.dll
+C:\Users\Nathan\Documents\Cshark\API\WebAPIPessoa.Repository\bin\Debug\netcoreapp3.1\ApiCacaTesouro.Repository.pdb
+C:\Users\Nathan\Documents\Cshark\API\WebAPIPessoa.Repository\obj\Debug\netcoreapp3.1\ApiCacaTesouro.Repository.csproj.AssemblyReference.cache
+C:\Users\Nathan\Documents\Cshark\API\WebAPIPessoa.Repository\obj\Debug\netcoreapp3.1\ApiCacaTesouro.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan\Documents\Cshark\API\WebAPIPessoa.Repository\obj\Debug\netcoreapp3.1\ApiCacaTesouro.Repository.AssemblyInfoInputs.cache
+C:\Users\Nathan\Documents\Cshark\API\WebAPIPessoa.Repository\obj\Debug\netcoreapp3.1\ApiCacaTesouro.Repository.AssemblyInfo.cs
+C:\Users\Nathan\Documents\Cshark\API\WebAPIPessoa.Repository\obj\Debug\netcoreapp3.1\ApiCacaTesouro.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\Documents\Cshark\API\WebAPIPessoa.Repository\obj\Debug\netcoreapp3.1\ApiCacaTesouro.Repository.dll
+C:\Users\Nathan\Documents\Cshark\API\WebAPIPessoa.Repository\obj\Debug\netcoreapp3.1\ApiCacaTesouro.Repository.pdb
